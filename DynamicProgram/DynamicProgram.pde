@@ -1,4 +1,4 @@
-/Global Variables
+//Global Variables
 //Called Initializing Variables
 String g;
 String h;
