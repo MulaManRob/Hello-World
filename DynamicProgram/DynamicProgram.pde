@@ -12,19 +12,27 @@ String n ;
 int one;
 
 void setup() {
-  String g = "Mr";
-  String h = ".";
-  String i = "Chaaban";
-  String j = "counts";
-  String k = "to";
-  String l = "10";
-  int ten = int(l);
-  String m = "by";
-  String n = "1";
-  int one = int(n);
+  //
+  //
+  //Called Declaring Values
+  g = "Mr";
+  h = ".";
+  i = "Chaaban";
+  j = "counts";
+  k = "to";
+  l = "10";
+  ten = int(l);
+  m = "by";
+  n = "1";
+  one = int(n);
+  //
+  println(g + h, i, j, k, l);
+  
 }//End setup()
 
 void draw() {
+  ten= ten + one;
+  println(g + h, i, j, k, ten, m, n);
 }//End draw()
 
 void keyPressed() {
