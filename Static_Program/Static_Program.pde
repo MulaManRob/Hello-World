@@ -1,6 +1,6 @@
 print("Hello World"); //Official Start to a new language
 char x = '!'; //Single Character Variable
-println(x); //Debuging String Varisble
+println(x); //Debugging String Variable
 // Using Concatenation, between print and println (debugging)
 String a = "You";
 String b = "said";
